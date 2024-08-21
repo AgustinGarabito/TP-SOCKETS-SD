@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1724250359 source:c:\users\garabito\downloads\facultad\4to año\2do cuatrimestre\sistemas distribuidos\actividad-sockets\cliente-sockets-44892612\main.cpp
+	<iostream>
+	<winsock2.h>
+	<ws2tcpip.h>
+	"string"
+	"conexion.h"
+
+1724250422 c:\users\garabito\downloads\facultad\4to año\2do cuatrimestre\sistemas distribuidos\actividad-sockets\cliente-sockets-44892612\conexion.h
+	<ws2tcpip.h>
+	<winsock2.h>
+
+1724250350 source:c:\users\garabito\downloads\facultad\4to año\2do cuatrimestre\sistemas distribuidos\actividad-sockets\cliente-sockets-44892612\conexion.cpp
+	"conexion.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+
